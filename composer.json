@@ -13,7 +13,7 @@
         }
     ],
     "require": {
-         "rz/page-bundle":"~1.0"
+         "rzproject/PageBundle":"~1.0"
     },
     "minimum-stability" : "dev",
     "autoload": {
